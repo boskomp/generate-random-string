@@ -9,7 +9,7 @@ npm install generate-random-strings
 ## Usage
 
 ```
-const generateRandomString = require('./random-string-generator');
+const generateRandomString = require('generate-random-strings');
 
 // Example: Generate a random string with the default length (10 characters)
 const randomString1 = generateRandomString();
