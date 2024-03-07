@@ -1,0 +1,19 @@
+{
+  "name": "generate-random-strings",
+  "version": "1.0.0",
+  "description": "Generate Random String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boskomp/generate-random-string.git"
+  },
+  "author": "boskomp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boskomp/generate-random-string/issues"
+  },
+  "homepage": "https://github.com/boskomp/generate-random-string#readme"
+}
